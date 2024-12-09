@@ -12,6 +12,10 @@ However, this project is just a CONCEPT - it only shows how one step of document
 
 There is the Linux `script` utility, but it lacks good timestamping and readability.
 
+## Installation
+
+`pip install pybashproof`
+
 # Usage
 
 - Run with `bashproof`
